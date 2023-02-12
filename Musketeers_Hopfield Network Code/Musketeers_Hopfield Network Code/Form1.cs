@@ -21,7 +21,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if (sender == button1)
+            /*if (sender == button1)
+            {
+                button1.BackColor = Color.Black;
+                array[0] = 1;
+            }*/
+            if (button1.BackColor == Color.Black)
+            {
+                button1.BackColor = SystemColors.Control;
+                array[0] = -1;
+            }
+            else
             {
                 button1.BackColor = Color.Black;
                 array[0] = 1;
@@ -30,7 +40,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button2_Click(object sender, EventArgs e)
         {
-            if (sender == button2)
+            /*if (sender == button2)
+            {
+                button2.BackColor = Color.Black;
+                array[1] = 1;
+            }*/
+            if (button2.BackColor == Color.Black)
+            {
+                button2.BackColor = SystemColors.Control;
+                array[1] = -1;
+            }
+            else
             {
                 button2.BackColor = Color.Black;
                 array[1] = 1;
@@ -39,7 +59,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (sender == button3)
+            /*if (sender == button3)
+            {
+                button3.BackColor = Color.Black;
+                array[2] = 1;
+            }*/
+            if (button3.BackColor == Color.Black)
+            {
+                button3.BackColor = SystemColors.Control;
+                array[2] = -1;
+            }
+            else
             {
                 button3.BackColor = Color.Black;
                 array[2] = 1;
@@ -48,7 +78,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button4_Click(object sender, EventArgs e)
         {
-            if (sender == button4)
+            /*if (sender == button4)
+            {
+                button4.BackColor = Color.Black;
+                array[3] = 1;
+            }*/
+            if (button4.BackColor == Color.Black)
+            {
+                button4.BackColor = SystemColors.Control;
+                array[3] = -1;
+            }
+            else
             {
                 button4.BackColor = Color.Black;
                 array[3] = 1;
@@ -57,7 +97,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (sender == button5)
+            /*if (sender == button5)
+            {
+                button5.BackColor = Color.Black;
+                array[4] = 1;
+            }*/
+            if (button5.BackColor == Color.Black)
+            {
+                button5.BackColor = SystemColors.Control;
+                array[4] = -1;
+            }
+            else
             {
                 button5.BackColor = Color.Black;
                 array[4] = 1;
@@ -66,7 +116,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button6_Click(object sender, EventArgs e)
         {
-            if (sender == button6)
+            /*if (sender == button6)
+            {
+                button6.BackColor = Color.Black;
+                array[5] = 1;
+            }*/
+            if (button6.BackColor == Color.Black)
+            {
+                button6.BackColor = SystemColors.Control;
+                array[5] = -1;
+            }
+            else
             {
                 button6.BackColor = Color.Black;
                 array[5] = 1;
@@ -75,7 +135,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (sender == button7)
+            /*if (sender == button7)
+            {
+                button7.BackColor = Color.Black;
+                array[6] = 1;
+            }*/
+            if (button7.BackColor == Color.Black)
+            {
+                button7.BackColor = SystemColors.Control;
+                array[6] = -1;
+            }
+            else
             {
                 button7.BackColor = Color.Black;
                 array[6] = 1;
@@ -84,7 +154,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button8_Click(object sender, EventArgs e)
         {
-            if (sender == button8)
+            /*if (sender == button8)
+            {
+                button8.BackColor = Color.Black;
+                array[7] = 1;
+            }*/
+            if (button8.BackColor == Color.Black)
+            {
+                button8.BackColor = SystemColors.Control;
+                array[7] = -1;
+            }
+            else
             {
                 button8.BackColor = Color.Black;
                 array[7] = 1;
@@ -93,7 +173,17 @@ namespace Musketeers_Hopfield_Network_Code
 
         private void button9_Click(object sender, EventArgs e)
         {
-            if (sender == button9)
+            /*if (sender == button9)
+            {
+                button9.BackColor = Color.Black;
+                array[8] = 1;
+            }*/
+            if (button9.BackColor == Color.Black)
+            {
+                button9.BackColor = SystemColors.Control;
+                array[8] = -1;
+            }
+            else
             {
                 button9.BackColor = Color.Black;
                 array[8] = 1;
