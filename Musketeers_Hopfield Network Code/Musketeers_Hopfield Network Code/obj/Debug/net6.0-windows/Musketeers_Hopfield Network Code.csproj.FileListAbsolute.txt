@@ -1,0 +1,17 @@
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield_Network_Code.Form1.resources
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.csproj.GenerateResource.cache
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.AssemblyInfo.cs
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\bin\Debug\net6.0-windows\Musketeers_Hopfield Network Code.exe
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\bin\Debug\net6.0-windows\Musketeers_Hopfield Network Code.deps.json
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\bin\Debug\net6.0-windows\Musketeers_Hopfield Network Code.runtimeconfig.json
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\bin\Debug\net6.0-windows\Musketeers_Hopfield Network Code.dll
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\bin\Debug\net6.0-windows\Musketeers_Hopfield Network Code.pdb
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.dll
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\refint\Musketeers_Hopfield Network Code.dll
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.pdb
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.genruntimeconfig.cache
+C:\Users\user\Documents\GINALYN FILES\3rd year 2nd Sem\CS346\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\ref\Musketeers_Hopfield Network Code.dll
