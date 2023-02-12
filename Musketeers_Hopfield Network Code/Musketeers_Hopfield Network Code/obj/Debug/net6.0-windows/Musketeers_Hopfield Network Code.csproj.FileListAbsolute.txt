@@ -67,3 +67,4 @@ C:\CANEDA_GINALYN\Caneda, Ginalyn_Repository\Musketeers-Hopfield-Network-Code-\M
 C:\CANEDA_GINALYN\Caneda, Ginalyn_Repository\Musketeers-Hopfield-Network-Code-\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.pdb
 C:\CANEDA_GINALYN\Caneda, Ginalyn_Repository\Musketeers-Hopfield-Network-Code-\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield Network Code.genruntimeconfig.cache
 C:\CANEDA_GINALYN\Caneda, Ginalyn_Repository\Musketeers-Hopfield-Network-Code-\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\ref\Musketeers_Hopfield Network Code.dll
+C:\Users\Elaiza Faye\Desktop\Hopfield\Musketeers-Hopfield-Network-Code-\Musketeers_Hopfield Network Code\Musketeers_Hopfield Network Code\obj\Debug\net6.0-windows\Musketeers_Hopfield_Network_Code.Properties.Resources.resources
