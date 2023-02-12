@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elaiza Faye\\Desktop\\Hopfield\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj": {}
+    "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elaiza Faye\\Desktop\\Hopfield\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj": {
+    "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elaiza Faye\\Desktop\\Hopfield\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj",
+        "projectUniqueName": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj",
         "projectName": "Musketeers_Hopfield Network Code",
-        "projectPath": "C:\\Users\\Elaiza Faye\\Desktop\\Hopfield\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj",
-        "packagesPath": "C:\\Users\\Elaiza Faye\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elaiza Faye\\Desktop\\Hopfield\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\obj\\",
+        "projectPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code.csproj",
+        "packagesPath": "C:\\Users\\Gecko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers-Hopfield-Network-Code-\\Musketeers_Hopfield Network Code\\Musketeers_Hopfield Network Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Elaiza Faye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gecko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

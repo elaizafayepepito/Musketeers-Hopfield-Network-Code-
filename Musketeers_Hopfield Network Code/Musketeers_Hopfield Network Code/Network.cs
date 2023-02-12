@@ -44,7 +44,7 @@ namespace Musketeers_Hopfield_Network_Code
                 {
                     Console.WriteLine("\n nrn[" + i + "].weightv[" + j + "] is " + nrn[i].weightv[j]);
                 }
-                nrn[i].activation = nrn[i].Act(4, patrn);
+                nrn[i].activation = nrn[i].Act(9, patrn);
                 Console.WriteLine("\nActivation is " + nrn[i].activation);
                 output[i] = Threshold(nrn[i].activation);
                 Console.WriteLine("\noutput value is " + output[i] + "\n");
