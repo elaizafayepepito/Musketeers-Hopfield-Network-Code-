@@ -100,7 +100,7 @@ namespace Musketeers_Hopfield_Network_Code
             }
         }
 
-        private void button19_Click(object sender, EventArgs e)
+        private void button10_Click(object sender, EventArgs e)
         {
             for (int i = 0; i < array.Length; i++)
             {
