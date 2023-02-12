@@ -1,3 +1,9 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
 namespace Musketeers_Hopfield_Network_Code
 {
     public static class Program
@@ -12,8 +18,8 @@ namespace Musketeers_Hopfield_Network_Code
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
-            /*
-            int[] patrn1 = { -1, 1, -1, 1, 1, 1, -1, 1, -1 };
+            
+            /*int[] patrn1 = { -1, 1, -1, 1, 1, 1, -1, 1, -1 };
             int[] wt1 = { 0, 0, 2, -2, -2, -2, 2, 0, 2 };
             int[] wt2 = { 0, 0, 0, 0, 0, 0, 0, 2, 0 };
             int[] wt3 = { 2, 0, 0, -2, -2, -2, 2, 0, 2 };
